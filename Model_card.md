@@ -122,6 +122,8 @@
 | **BLiMP** | ~45-60% | ⚠️ Mixed (grammatical judgments weak) |
 | **MMLU/Expert Knowledge** | ~0-25% | ❌ Very weak (no specialized training) |
 
+For the model being
+
 ---
 
 ## Capabilities & Limitations
