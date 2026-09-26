@@ -164,7 +164,7 @@ For the model being
 
 ### ✅ Good For
 
-- Research and education on LLM architecture
+- Research and education on LLM architecture and agentic behavior
 - Fine-tuning on custom datasets (via LoRA)
 - Story generation and creative writing
 - Local deployment (fits on consumer GPUs)
