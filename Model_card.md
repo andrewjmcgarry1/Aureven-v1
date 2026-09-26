@@ -122,7 +122,8 @@
 | **BLiMP** | ~45-60% | ⚠️ Mixed (grammatical judgments weak) |
 | **MMLU/Expert Knowledge** | ~0-25% | ❌ Very weak (no specialized training) |
 
-For the model being
+For the model being sub 1B paramaters, these results are expected and above average, It surpasses GPT-2 in creative writing
+and other benchmarks while being half the size.
 
 ---
 
