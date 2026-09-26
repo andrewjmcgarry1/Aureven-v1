@@ -333,7 +333,7 @@ print(text)
 
 ## License
 
-**Apache License 2.0** — Free to use, modify, and distribute for commercial and research purposes.
+**MIT License 2026** — Free to use, modify, and distribute for commercial and research purposes.
 
 See LICENSE file for full terms.
 
@@ -343,8 +343,7 @@ See LICENSE file for full terms.
 
 For questions, issues, or collaborations:
 - GitHub: [your-repo]
-- Email: [your-email]
-- Hugging Face: [your-hf-profile]
+- Email: aurevenai@gmail.com
 
 **Last Updated** — June 2026
 **Model Version** — 1.0 (Base)
