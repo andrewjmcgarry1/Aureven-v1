@@ -6,7 +6,7 @@
 |----------|-------|
 | **Model Name** | Aureven-v1 |
 | **Model Type** | Decoder-only Transformer |
-| **Architecture** | GPT-style Language Model |
+| **Architecture** | GPT-style Large Language Model |
 | **Total Parameters** | 128.40M |
 | **Training Date** | June 2026 |
 | **License** | MIT License |
