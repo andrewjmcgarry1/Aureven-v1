@@ -1,6 +1,6 @@
 # Aureven-v1
 
-Latest update and model weights for a 0.128B parameter LLM, built as an edge AI 
+Latest update and model weights for a 0.128B or 100 Million parameter LLM, built as an edge AI 
 for agentic behavior research and neural network studying.
 
 ## Overview
