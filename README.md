@@ -11,7 +11,7 @@ family. Unlike fine-tunes of existing architectures, both the model and tokenize
 were built from scratch as part of an ongoing research effort into efficient, 
 lightweight language models capable of running on edge hardware.
 
-The model was trained for 8 hours on 2x NVIDIA T4 GPUs, and achieves:
+The model was trained for over 8 hours on 2x NVIDIA T4 GPUs, and achieves:
 - **12 PPL** on the training set
 - **58 PPL** on the validation set
 
