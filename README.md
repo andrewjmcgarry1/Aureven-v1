@@ -5,7 +5,7 @@ for agentic behavior research and neural network studying.
 
 ## Overview
 
-Aureven-v1 is a fully custom-built and custom-trained Small Language Model (SLM), 
+Aureven-v1 is a fully custom-built and custom-trained Language Model (SLM), 
 paired with a fully custom-trained tokenizer designed specifically for this model 
 family. Unlike fine-tunes of existing architectures, both the model and tokenizer 
 were built from scratch as part of an ongoing research effort into efficient, 
