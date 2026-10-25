@@ -37,9 +37,9 @@ convergence — validating the tokenizer design ahead of larger training runs.
 ## Architecture
 
 - **Parameters:** 0.128B
-- **Architecture:** [fill in — e.g. decoder-only transformer, GPT-style]
+- **Architecture:** 
 - **Context length:** [fill in]
-- **Tokenizer:** Custom-trained, vocab size [fill in]
+- **Tokenizer:** Custom-trained, vocab size
 - **Training hardware:** 2x NVIDIA T4 GPUs
 - **Training time:** ~8 hours
 
