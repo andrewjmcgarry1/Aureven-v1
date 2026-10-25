@@ -37,7 +37,7 @@ convergence — validating the tokenizer design ahead of larger training runs.
 ## Architecture
 
 - **Parameters:** 0.128B
-- **Architecture:** Fully
+- **Architecture:** Fully cu
 - **Context length:** [fill in]
 - **Tokenizer:** Custom-trained, vocab size
 - **Training hardware:** 2x NVIDIA T4 GPUs
