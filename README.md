@@ -1,7 +1,7 @@
 # Aureven-v1
 
 Latest update and model weights for a 0.128B or 100 Million parameter Large Laguage Model made fully from scratch, built as an edge AI 
-for agentic behavior research and neural network studying.
+for agentic behavior research and neural network studying. Custom Architecture was developed from scratch by me.
 
 ## Overview
 
@@ -9,7 +9,8 @@ Aureven-v1 is a fully custom-built and custom-trained Language Model (SLM),
 paired with a fully custom-trained tokenizer designed specifically for this model 
 family. Unlike fine-tunes of existing architectures, both the model and tokenizer 
 were built from scratch as part of an ongoing research effort into efficient, 
-lightweight language models capable of running on edge hardware.
+lightweight language models capable of running on edge hardware. Model performed incredibly
+well considering only 50% of the data was fed to it. Second test with full dataset is posted below.
 
 The model was trained for over 8 hours on 2x NVIDIA T4 GPUs, and achieves:
 - **12 PPL** on the training set
