@@ -1,4 +1,4 @@
-# A-v1
+# Au-v1
 
 Latest update and model weights for a 0.128B or 100 Million parameter Large Language Model made fully from scratch, built as an edge AI 
 for agentic behavior research and neural network studying. Custom Architecture was developed from scratch by me.
